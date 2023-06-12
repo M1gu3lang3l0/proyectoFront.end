@@ -1,0 +1,31 @@
+.servicios{
+
+    display: flex;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.servicios li{
+
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background: #cccccc;
+    margin-bottom:40px ;
+    margin-right: 45px;
+    padding:70px 10px;
+    box-sizing: border-box;
+    border:2px solid #000000;
+    border-radius: 10px;
+   
+}
+
+
+.servicios h2{
+    
+    font-size: 30px;
+    font-weight: bold;
+}
